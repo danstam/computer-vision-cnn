@@ -25,8 +25,5 @@ The primary goals of this project are:
 
 
 
-The primary goals of this project are:
-- To showcase my initial steps in building and training a CNN.
-- To provide a clear example of a CNN's structure and functionality.
-- To share my learning process and insights with the community.
+
 
